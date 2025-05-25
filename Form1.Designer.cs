@@ -1,4 +1,9 @@
-namespace MyFirstApp
+using static System.Net.Mime.MediaTypeNames;
+using System.Drawing.Printing;
+using System.Windows.Forms;
+using System.Xml.Linq;
+
+namespace LashaMurgvaLominadzeShraieri.Final
 {
     partial class Form1
     {
