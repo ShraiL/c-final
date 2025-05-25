@@ -1,4 +1,4 @@
-namespace MyFirstApp
+namespace LashaMurgvaLominadzeShraieri.Final
 {
     internal static class Program
     {
