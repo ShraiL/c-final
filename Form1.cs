@@ -1,15 +1,14 @@
-using MyFirstApp.Models;
-using MyFirstApp.Services;
+using LashaMurgvaLominadzeShraieri.Final.Models;
+using LashaMurgvaLominadzeShraieri.Final.Services;
 using System.ComponentModel;
 
-namespace MyFirstApp
+namespace LashaMurgvaLominadzeShraieri.Final
 {
     public partial class Form1 : Form
     {
         private readonly PersonService _personService;
         private readonly BindingList<Person> _bindingList;
-        private int _currentEditIndex = -1; // Holds the index of the person being edited
-
+        private int _currentEditIndex = -1; 
         public Form1()
         {
             InitializeComponent();
