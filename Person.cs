@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstApp.Models;
+namespace LashaMurgvaLominadzeShraieri.Final.Models;
 
 public class Person
 {
