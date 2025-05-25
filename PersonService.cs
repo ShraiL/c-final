@@ -1,11 +1,11 @@
-using MyFirstApp.Models;
+using LashaMurgvaLominadzeShraieri.Final.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstApp.Services;
+namespace LashaMurgvaLominadzeShraieri.Final.Services;
 
 public class PersonService
 {
